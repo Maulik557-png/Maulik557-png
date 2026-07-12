@@ -25,10 +25,10 @@
 
 - 🎓 Final-year **B.E. Computer Engineering** student at ADIT, Vallabh Vidyanagar (CGPA: 8.89/10, Class of 2027)
 - 💼 Backend-focused developer building production-grade systems with **Spring Boot, REST APIs, Microservices, Kafka, Redis, Docker, and AWS**
-- 🏗️ Interned at **BytezTech** (Razorpay payment integration — 4-service microservices platform with Kafka, Redis, Resilience4j, Prometheus/Grafana observability) and **HulkHire Tech** (PayPal checkout integration with OAuth 2.0 — earned the STAR Performer Award)
+- 🏗️ Interned at **BytezTech** (Razorpay payment integration 4-service microservices platform with Kafka, Redis, Resilience4j, Prometheus/Grafana observability) and **HulkHire Tech** (PayPal checkout integration with OAuth 2.0 earned the STAR Performer Award)
 - 🏆 Hackathon finalist — SSIP Gujarat (Team Awaaz) & Innovation AI Shaping Future (Team Swift AI)
 - ☁️ Oracle Cloud Infrastructure (OCI) Foundations Associate certified
-- 📌 Actively interviewing for backend / full-stack roles in campus placement drives as well as off campus -  open to connecting!
+- 📌 Actively interviewing for backend / full-stack roles in campus placement drives as well as off campus —  open to connecting!
 
 ---
 
@@ -51,8 +51,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maulik557-png&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maulik557-png&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="165"/>
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="165"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Maulik557-png&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
