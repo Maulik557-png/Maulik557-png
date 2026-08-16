@@ -1,0 +1,117 @@
+# ==============================================================================
+# Python Byte-compiled / Optimized / DLL Files
+# ==============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ==============================================================================
+# Virtual Environments & Package Managers
+# ==============================================================================
+# Default Python virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Pipenv
+.venv
+Pipfile.lock
+
+# Poetry (Local configuration and cache)
+.poetry/
+.pytest_cache/
+
+# pdm
+.pdm-python
+pdm.toml
+
+# ==============================================================================
+# Distribution / Packaging / Build Artifacts
+# ==============================================================================
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# ==============================================================================
+# Jupyter Notebooks & Data Science
+# ==============================================================================
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# ==============================================================================
+# Environments, Secrets, and API Keys (NEVER COMMIT THESE)
+# ==============================================================================
+.env
+.yaml
+.json
+*.env
+*.secret
+credentials.ini
+
+# ==============================================================================
+# Testing, Coverage, and Code Quality
+# ==============================================================================
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# ==============================================================================
+# IDEs and Text Editors
+# ==============================================================================
+# JetBrains (PyCharm)
+.idea/
+
+# Visual Studio Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Text editors
+*.swp
+*.swo
+*~
+
+# ==============================================================================
+# Operating System Specific
+# ==============================================================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Ehthumbs.db
+Desktop.ini
