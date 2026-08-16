@@ -35,33 +35,32 @@
 ### 🧰 Tech Stack
 
 <div align="center">
-
-  <!-- Backend -->
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="Spring" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/hibernate-icon.svg" alt="Hibernate" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/kafka-icon.svg" alt="Kafka" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50" />
-
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />  
+  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=redis" />
+  <img src="https://skillicons.dev/icons?i=postman" />
   <br/>
-
-  <!-- Database & Infrastructure -->
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/redis-icon.svg" alt="Redis" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
-
-  <br/>
-
-  <!-- Development & Observability -->
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/jenkins-icon.svg" alt="Jenkins" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/postman-icon.svg" alt="Postman" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/junit-icon.svg" alt="JUnit" width="50" height="50" />
-
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" /> 
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" /> 
+  <img src="https://skillicons.dev/icons?i=jenkins" />
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" />
+</p>
 
 ---
 
