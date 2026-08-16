@@ -25,7 +25,7 @@
 
 - 🎓 Final-year **B.E. Computer Engineering** student at ADIT, Vallabh Vidyanagar (CGPA: 8.89/10, Class of 2027)
 - 💼 Backend-focused developer building production-grade systems with **Spring Boot, REST APIs, Microservices, Kafka, Redis, Docker, and AWS**
-- 🏗️ Interned at **BytezTech** (Razorpay payment integration 4-service microservices platform with Kafka, Redis, Resilience4j, Prometheus/Grafana observability) and **HulkHire Tech** (PayPal checkout integration with OAuth 2.0 earned the STAR Performer Award)
+- 🏗️ Interned at **HulkHire Tech** (PayPal checkout integration with OAuth 2.0 earned the STAR Performer Award)
 - 🏆 Hackathon finalist — SSIP Gujarat (Team Awaaz) & Innovation AI Shaping Future (Team Swift AI)
 - ☁️ Oracle Cloud Infrastructure (OCI) Foundations Associate certified
 - 📌 Actively interviewing for backend / full-stack roles in campus placement drives as well as off campus —  open to connecting!
@@ -48,11 +48,15 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Growth Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maulik557-png&bg_color=00000000&color=539bf5&line=539bf5&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
 </p>
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="./profile/top-langs.svg" alt="Top Languages" height="165"/>
@@ -66,7 +70,7 @@
 ### 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/smaulik557?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/smaulik557?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
 </p>
 
 ---
