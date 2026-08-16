@@ -23,13 +23,9 @@
 
 ### 🚀 About Me
 
-<table align="center">
-  <tr>
-    <td valign="middle">
-      <img src="./assets/me/maulik-info-card.svg"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/me/maulik-info-card.svg"/>
+</p>
 
 ---
 
