@@ -51,7 +51,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maulik557-png&bg_color=00000000&color=539bf5&line=539bf5&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
+</p>
+
+<p align="center">
   <img src="./profile/top-langs.svg" alt="Top Languages" height="165"/>
 </p>
 <p align="center">
