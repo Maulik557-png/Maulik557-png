@@ -214,7 +214,7 @@ parts.append(
     f'fill="{MUTED}" '
     f'font-size="13" '
     f'text-anchor="middle">'
-    f"Maulik557-png@github: ~$ neofetch"
+    f"Maulik557-png@github"
     f"</text>"
 )
 

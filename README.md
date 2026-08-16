@@ -26,10 +26,7 @@
 <table align="center">
   <tr>
     <td valign="middle">
-      <img src="./assets/me/maulik-ascii.svg" width="550" />
-    </td>
-    <td valign="middle">
-      <img src="./assets/me/maulik-info-card.svg" width="550" />
+      <img src="./assets/me/maulik-info-card.svg"/>
     </td>
   </tr>
 </table>
@@ -45,8 +42,8 @@
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
   <img src="assets/animated/postgresql-icon.svg" alt="icon" width="50" height="50" />
   <img src="assets/animated/postman-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-
+  <!-- <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" /> -->
+  <img src="assets/animated/github-icon.svg" alt="icon" width="50" height="50" />
   <br/>
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
