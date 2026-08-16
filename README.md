@@ -23,35 +23,38 @@
 
 ### 🚀 About Me
 
-- 🎓 Final-year **B.E. Computer Engineering** student at ADIT, Vallabh Vidyanagar (CGPA: 8.89/10, Class of 2027)
-- 💼 Backend-focused developer building production-grade systems with **Spring Boot, REST APIs, Microservices, Kafka, Redis, Docker, and AWS**
-- 🏗️ Interned at **HulkHire Tech** (PayPal checkout integration with OAuth 2.0 earned the STAR Performer Award)
-- 🏆 Hackathon finalist — SSIP Gujarat (Team Awaaz) & Innovation AI Shaping Future (Team Swift AI)
-- ☁️ Oracle Cloud Infrastructure (OCI) Foundations Associate certified
-- 📌 Actively interviewing for backend / full-stack roles in campus placement drives as well as off campus —  open to connecting!
+<table align="center">
+  <tr>
+    <td valign="middle">
+      <img src="./assets/me/maulik-ascii.svg" width="550" />
+    </td>
+    <td valign="middle">
+      <img src="./assets/me/maulik-info-card.svg" width="550" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />  
-  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="assets/animated/spring-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=postgres" />
-  <img src="https://skillicons.dev/icons?i=postman" />
-  <img src="https://skillicons.dev/icons?i=redis" />
-  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="assets/animated/postgresql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="assets/animated/postman-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+
   <br/>
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" /> 
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" /> 
-  <img src="https://skillicons.dev/icons?i=jenkins" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="assets/animated/jenkins-icon.svg" alt="icon" width="50" height="50" />
+  <img src="assets/animated/git-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
 <p align="center">
@@ -72,13 +75,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Heatmap of Contributions
 
 <p align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages" height="165"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Maulik557-png&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="./assets/heatmaps/Maulik-heatmap.svg" width="100%" />
 </p>
 
 ---
