@@ -63,7 +63,7 @@
 ### 📈 Growth Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maulik557-png&bg_color=00000000&color=539bf5&line=539bf5&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
+  <img src="./assets/graphs/Maulik-activity-graph.svg" width="100%" alt="GitHub activity growth graph" />
 </p>
 
 ---
@@ -71,7 +71,7 @@
 ### 📊 Heatmap of Contributions
 
 <p align="center">
-  <img src="./assets/heatmaps/Maulik-heatmap.svg" width="100%" />
+  <img src="./assets/heatmaps/Maulik-heatmap.svg" width="100%" alt="GitHub contribution heatmap" />
 </p>
 
 ---
