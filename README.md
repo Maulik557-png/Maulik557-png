@@ -42,7 +42,7 @@
   <br/>
   <img src="assets/static/react.svg" alt="icon" width="50" height="50" />
   <img src="assets/static/js.svg" alt="icon" width="50" height="50" />
-  <img src="assets/static/Graphql.svg" alt="icon" width="50" height="50" />
+  <img src="assets/static/GraphQL.svg" alt="icon" width="50" height="50" />
   <img src="assets/static/Docker.svg" alt="icon" width="50" height="50" />
   <img src="assets/static/aws.svg" alt="icon" width="50" height="50" />
   <img src="assets/static/Jenkins.svg" alt="icon" width="50" height="50" />
