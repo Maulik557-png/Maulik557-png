@@ -32,22 +32,21 @@
 ### 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="assets/static/java.svg" alt="icon" width="50" height="50" />
   <img src="assets/animated/spring-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="assets/animated/postgresql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="assets/animated/postman-icon.svg" alt="icon" width="50" height="50" />
-  <!-- <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" /> -->
-  <img src="assets/animated/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="assets/static/rest-api.svg" alt="icon" width="50" height="50" />
+  <img src="assets/static/Mysql.svg" alt="icon" width="50" height="50" />
+  <img src="assets/static/PostgresSQL.svg" alt="icon" width="50" height="50" />
+  <img src="assets/static/Postman.svg" alt="icon" width="50" height="50" />
+  <img src="assets/static/github-copilot.svg" alt="icon" width="50" height="50" />
   <br/>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="assets/animated/jenkins-icon.svg" alt="icon" width="50" height="50" />
-  <img src="assets/animated/git-icon.svg" alt="icon" width="50" height="50" />
+  <img src="assets/static/react.svg" alt="icon" width="50" height="50" />
+  <img src="assets/static/js.svg" alt="icon" width="50" height="50" />
+  <img src="assets/static/Graphql.svg" alt="icon" width="50" height="50" />
+  <img src="assets/static/Docker.svg" alt="icon" width="50" height="50" />
+  <img src="assets/static/aws.svg" alt="icon" width="50" height="50" />
+  <img src="assets/static/Jenkins.svg" alt="icon" width="50" height="50" />
+  <img src="assets/static/Git.svg" alt="icon" width="50" height="50" />
 </div>
 
 <p align="center">
